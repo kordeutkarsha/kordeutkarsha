@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Frontend Web development**
 
-- 📫 How to reach me **utkarshaskorde@gmail.com**
+- 📫 How to reach me **kordeutkarsha1@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
